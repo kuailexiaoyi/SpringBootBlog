@@ -1,0 +1,6 @@
+test:
+  student:
+    username: zrblog
+    age: 18
+    sex: 男
+    tostring: the age of ${test.user.username} is ${test.user.age}

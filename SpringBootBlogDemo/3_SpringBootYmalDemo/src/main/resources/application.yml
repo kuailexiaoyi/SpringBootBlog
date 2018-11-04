@@ -1,0 +1,9 @@
+test:
+  user:
+    username: zrblog
+    age: 18
+    tostring: the age of ${test.user.username} is ${test.user.age}
+
+spring:
+  profiles:
+    active: dev

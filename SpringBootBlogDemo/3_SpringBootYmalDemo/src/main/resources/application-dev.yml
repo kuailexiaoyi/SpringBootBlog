@@ -1,0 +1,2 @@
+server:
+  port: 8081 #配置tomcat访问端口
