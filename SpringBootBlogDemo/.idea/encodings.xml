@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/1.SpringBootHelloWorldDemo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10_SpringBootFastJson" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/11_SpringBootMail" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/12_SpringBootKafka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/13_SpringBootRabbitMq" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/13_SpringBootRabbitMq/src/main/resources/application.yml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/14_SpringBootMemcached" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/14_SpringBootMemcached/src/main/resources/application.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/15_SpringBootRedis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/16_SpringBootMybatisPlus" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/17_SpringBootJpa" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/18_SpringBootMongoDB" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/19_SpringBootBeatlsql" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/20_SpringBootCache" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/20_SpringBootCache/src/main/resources/application.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/21_SpringBootRedisMq" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/22_SpringBootRestTemplate" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/23_SpringBootUploadFile" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/24_SpringBootDownloadFile" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/25_SpringBootSchedulingTask" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/26_SpringBootValidateForm" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/27_SpringBootHandlerForm" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2_SpringBootDevTools" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/3_SpringBootYmalDemo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/4_SpringBootJdbcTemplate" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/5_SpringBootMybatis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/5_SpringBootMybatis2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/6_SpringBootCros" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/7_SpringBootSwagger2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/8_SpringBootLog4j" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/9_SpringBootDruid" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JavaDemo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SprinBootParent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SprinBootParent/SpringBootDao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SprinBootParent/SpringBootEntity" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SprinBootParent/SpringBootService" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SprinBootParent/SpringBootWeb" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="28_SpringBootController:war">
+    <output-path>$PROJECT_DIR$/28_SpringbootParent/28_SpringBootController/target</output-path>
+    <root id="archive" name="springboot-controller-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="28_SpringBootController:war exploded" />
+    </root>
+  </artifact>
+</component>

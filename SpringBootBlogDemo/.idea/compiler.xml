@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="1.SpringBootHelloWorldDemo" />
+        <module name="10_SpringBootFastJson" />
+        <module name="11_SpringBootMail" />
+        <module name="12_SpringBootKafka" />
+        <module name="13_SpringBootRabbitMq" />
+        <module name="14_SpringBootMemcached" />
+        <module name="15_SpringBootRedis" />
+        <module name="16_SpringBootMybatisPlus" />
+        <module name="17_SpringBootJpa" />
+        <module name="18_SpringBootMongoDB" />
+        <module name="19_SpringBootBeatlsql" />
+        <module name="20_SpringBootCache" />
+        <module name="21_SpringBootRedisMq" />
+        <module name="22_SpringBootRestTemplate" />
+        <module name="23_SpringBootUploadFile" />
+        <module name="24_SpringBootDownloadFile" />
+        <module name="25_SpringBootSchedulingTask" />
+        <module name="26_SpringBootValidateForm" />
+        <module name="27_SpringBootHandlerForm" />
+        <module name="28_SpringBootParent" />
+        <module name="2_SpringBootDevTools" />
+        <module name="3_SpringBootYmalDemo" />
+        <module name="4_SpringBootJdbcTemplate" />
+        <module name="5_SpringBootMybatis" />
+        <module name="5_SpringBootMybatis2" />
+        <module name="6_SpringBootCros" />
+        <module name="7_SpringBootSwagger2" />
+        <module name="8_SpringBootLog4j" />
+        <module name="9_SpringBootDruid" />
+        <module name="JavaDemo" />
+        <module name="springboot-web" />
+        <module name="SpringBootDao" />
+        <module name="SpringBootEntity" />
+        <module name="SpringBootService" />
+        <module name="SpringBootWeb" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="1.SpringBootHelloWorldDemo" target="1.8" />
+      <module name="10_SpringBootFastJson" target="1.8" />
+      <module name="11_SpringBootMail" target="1.8" />
+      <module name="12_SpringBootKafka" target="1.8" />
+      <module name="13_SpringBootRabbitMq" target="1.8" />
+      <module name="14_SpringBootMemcached" target="1.8" />
+      <module name="15_SpringBootRedis" target="1.8" />
+      <module name="16_SpringBootMybatisPlus" target="1.8" />
+      <module name="17_SpringBootJpa" target="1.8" />
+      <module name="18_SpringBootMongoDB" target="1.8" />
+      <module name="19_SpringBootBeatlsql" target="1.8" />
+      <module name="20_SpringBootCache" target="1.8" />
+      <module name="20_SpringBootParent" target="1.5" />
+      <module name="21_SpringBootRedisMq" target="1.8" />
+      <module name="22_SpringBootRestTemplate" target="1.8" />
+      <module name="23_SpringBootUploadFile" target="1.8" />
+      <module name="24_SpringBootDownloadFile" target="1.8" />
+      <module name="25_SpringBootSchedulingTask" target="1.8" />
+      <module name="26_SpringBootValidateForm" target="1.8" />
+      <module name="27_SpringBootHandlerForm" target="1.8" />
+      <module name="28_SpringBootController" target="1.6" />
+      <module name="28_SpringBootDao" target="1.6" />
+      <module name="28_SpringBootEntity" target="1.6" />
+      <module name="28_SpringBootMultiModuleLibrary" target="1.5" />
+      <module name="28_SpringBootMultiModuleParent" target="1.5" />
+      <module name="28_SpringBootParent" target="1.8" />
+      <module name="28_SpringbootParent" target="1.6" />
+      <module name="28_SpringBootService" target="1.6" />
+      <module name="2_SpringBootDevTools" target="1.8" />
+      <module name="3_SpringBootYmalDemo" target="1.8" />
+      <module name="4_SpringBootJdbcTemplate" target="1.8" />
+      <module name="5_SpringBootMybatis" target="1.8" />
+      <module name="5_SpringBootMybatis2" target="1.8" />
+      <module name="6_SpringBootCros" target="1.8" />
+      <module name="7_SpringBootSwagger2" target="1.8" />
+      <module name="8_SpringBootLog4j" target="1.8" />
+      <module name="9_SpringBootDruid" target="1.8" />
+      <module name="JavaDemo" target="1.8" />
+      <module name="SprinBootParent" target="1.6" />
+      <module name="springboot-web" target="1.8" />
+      <module name="SpringBootDao" target="1.6" />
+      <module name="SpringBootEntity" target="1.6" />
+      <module name="SpringBootService" target="1.6" />
+      <module name="SpringBootWeb" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1.SpringBootHelloWorldDemo/1.SpringBootHelloWorldDemo.iml" filepath="$PROJECT_DIR$/1.SpringBootHelloWorldDemo/1.SpringBootHelloWorldDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_SpringBootFastJson/10_SpringBootFastJson.iml" filepath="$PROJECT_DIR$/10_SpringBootFastJson/10_SpringBootFastJson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_SpringBootMail/11_SpringBootMail.iml" filepath="$PROJECT_DIR$/11_SpringBootMail/11_SpringBootMail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12_SpringBootKafka/12_SpringBootKafka.iml" filepath="$PROJECT_DIR$/12_SpringBootKafka/12_SpringBootKafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13_SpringBootRabbitMq/13_SpringBootRabbitMq.iml" filepath="$PROJECT_DIR$/13_SpringBootRabbitMq/13_SpringBootRabbitMq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14_SpringBootMemcached/14_SpringBootMemcached.iml" filepath="$PROJECT_DIR$/14_SpringBootMemcached/14_SpringBootMemcached.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15_SpringBootRedis/15_SpringBootRedis.iml" filepath="$PROJECT_DIR$/15_SpringBootRedis/15_SpringBootRedis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16_SpringBootMybatisPlus/16_SpringBootMybatisPlus.iml" filepath="$PROJECT_DIR$/16_SpringBootMybatisPlus/16_SpringBootMybatisPlus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17_SpringBootJpa/17_SpringBootJpa.iml" filepath="$PROJECT_DIR$/17_SpringBootJpa/17_SpringBootJpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18_SpringBootMongoDB/18_SpringBootMongoDB.iml" filepath="$PROJECT_DIR$/18_SpringBootMongoDB/18_SpringBootMongoDB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19_SpringBootBeatlsql/19_SpringBootBeatlsql.iml" filepath="$PROJECT_DIR$/19_SpringBootBeatlsql/19_SpringBootBeatlsql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20_SpringBootCache/20_SpringBootCache.iml" filepath="$PROJECT_DIR$/20_SpringBootCache/20_SpringBootCache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21_SpringBootRedisMq/21_SpringBootRedisMq.iml" filepath="$PROJECT_DIR$/21_SpringBootRedisMq/21_SpringBootRedisMq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/22_SpringBootRestTemplate/22_SpringBootRestTemplate.iml" filepath="$PROJECT_DIR$/22_SpringBootRestTemplate/22_SpringBootRestTemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/23_SpringBootUploadFile/23_SpringBootUploadFile.iml" filepath="$PROJECT_DIR$/23_SpringBootUploadFile/23_SpringBootUploadFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24_SpringBootDownloadFile/24_SpringBootDownloadFile.iml" filepath="$PROJECT_DIR$/24_SpringBootDownloadFile/24_SpringBootDownloadFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/25_SpringBootSchedulingTask/25_SpringBootSchedulingTask.iml" filepath="$PROJECT_DIR$/25_SpringBootSchedulingTask/25_SpringBootSchedulingTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/26_SpringBootValidateForm/26_SpringBootValidateForm.iml" filepath="$PROJECT_DIR$/26_SpringBootValidateForm/26_SpringBootValidateForm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/27_SpringBootHandlerForm/27_SpringBootHandlerForm.iml" filepath="$PROJECT_DIR$/27_SpringBootHandlerForm/27_SpringBootHandlerForm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_SpringBootDevTools/2_SpringBootDevTools.iml" filepath="$PROJECT_DIR$/2_SpringBootDevTools/2_SpringBootDevTools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3_SpringBootYmalDemo/3_SpringBootYmalDemo.iml" filepath="$PROJECT_DIR$/3_SpringBootYmalDemo/3_SpringBootYmalDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_SpringBootJdbcTemplate/4_SpringBootJdbcTemplate.iml" filepath="$PROJECT_DIR$/4_SpringBootJdbcTemplate/4_SpringBootJdbcTemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5_SpringBootMybatis/5_SpringBootMybatis.iml" filepath="$PROJECT_DIR$/5_SpringBootMybatis/5_SpringBootMybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5_SpringBootMybatis2/5_SpringBootMybatis2.iml" filepath="$PROJECT_DIR$/5_SpringBootMybatis2/5_SpringBootMybatis2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6_SpringBootCros/6_SpringBootCros.iml" filepath="$PROJECT_DIR$/6_SpringBootCros/6_SpringBootCros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7_SpringBootSwagger2/7_SpringBootSwagger2.iml" filepath="$PROJECT_DIR$/7_SpringBootSwagger2/7_SpringBootSwagger2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8_SpringBootLog4j/8_SpringBootLog4j.iml" filepath="$PROJECT_DIR$/8_SpringBootLog4j/8_SpringBootLog4j.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9_SpringBootDruid/9_SpringBootDruid.iml" filepath="$PROJECT_DIR$/9_SpringBootDruid/9_SpringBootDruid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaDemo/JavaDemo.iml" filepath="$PROJECT_DIR$/JavaDemo/JavaDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SprinBootParent/SprinBootParent.iml" filepath="$PROJECT_DIR$/SprinBootParent/SprinBootParent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SprinBootParent/SpringBootDao/SpringBootDao.iml" filepath="$PROJECT_DIR$/SprinBootParent/SpringBootDao/SpringBootDao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SprinBootParent/SpringBootEntity/SpringBootEntity.iml" filepath="$PROJECT_DIR$/SprinBootParent/SpringBootEntity/SpringBootEntity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SprinBootParent/SpringBootService/SpringBootService.iml" filepath="$PROJECT_DIR$/SprinBootParent/SpringBootService/SpringBootService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SprinBootParent/SpringBootWeb/SpringBootWeb.iml" filepath="$PROJECT_DIR$/SprinBootParent/SpringBootWeb/SpringBootWeb.iml" />
+    </modules>
+  </component>
+</project>

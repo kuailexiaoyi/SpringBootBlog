@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/28_SpringbootParent/28_SpringBootController" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/1.SpringBootHelloWorldDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/2_SpringBootDevTools/pom.xml" />
+        <option value="$PROJECT_DIR$/3_SpringBootYmalDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/4_SpringBootJdbcTemplate/pom.xml" />
+        <option value="$PROJECT_DIR$/5_SpringBootMybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/5_SpringBootMybatis2/pom.xml" />
+        <option value="$PROJECT_DIR$/6_SpringBootCros/pom.xml" />
+        <option value="$PROJECT_DIR$/7_SpringBootSwagger2/pom.xml" />
+        <option value="$PROJECT_DIR$/8_SpringBootLog4j/pom.xml" />
+        <option value="$PROJECT_DIR$/9_SpringBootDruid/pom.xml" />
+        <option value="$PROJECT_DIR$/10_SpringBootFastJson/pom.xml" />
+        <option value="$PROJECT_DIR$/11_SpringBootMail/pom.xml" />
+        <option value="$PROJECT_DIR$/12_SpringBootKafka/pom.xml" />
+        <option value="$PROJECT_DIR$/13_SpringBootRabbitMq/pom.xml" />
+        <option value="$PROJECT_DIR$/14_SpringBootMemcached/pom.xml" />
+        <option value="$PROJECT_DIR$/15_SpringBootRedis/pom.xml" />
+        <option value="$PROJECT_DIR$/16_SpringBootMybatisPlus/pom.xml" />
+        <option value="$PROJECT_DIR$/17_SpringBootJpa/pom.xml" />
+        <option value="$PROJECT_DIR$/18_SpringBootMongoDB/pom.xml" />
+        <option value="$PROJECT_DIR$/19_SpringBootBeatlsql/pom.xml" />
+        <option value="$PROJECT_DIR$/20_SpringBootCache/pom.xml" />
+        <option value="$PROJECT_DIR$/21_SpringBootRedisMq/pom.xml" />
+        <option value="$PROJECT_DIR$/22_SpringBootRestTemplate/pom.xml" />
+        <option value="$PROJECT_DIR$/23_SpringBootUploadFile/pom.xml" />
+        <option value="$PROJECT_DIR$/24_SpringBootDownloadFile/pom.xml" />
+        <option value="$PROJECT_DIR$/25_SpringBootSchedulingTask/pom.xml" />
+        <option value="$PROJECT_DIR$/JavaDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/26_SpringBootValidateForm/pom.xml" />
+        <option value="$PROJECT_DIR$/27_SpringBootHandlerForm/pom.xml" />
+        <option value="$PROJECT_DIR$/28_SpringbootParent/pom.xml" />
+        <option value="$PROJECT_DIR$/SprinBootParent/pom.xml" />
+        <option value="$PROJECT_DIR$/SprinBootParent/SpringBootWeb/pom.xml" />
+        <option value="$PROJECT_DIR$/SprinBootParent/SpringBootService/pom.xml" />
+        <option value="$PROJECT_DIR$/SprinBootParent/SpringBootDao/pom.xml" />
+        <option value="$PROJECT_DIR$/SprinBootParent/SpringBootEntity/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/28_SpringbootParent/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
