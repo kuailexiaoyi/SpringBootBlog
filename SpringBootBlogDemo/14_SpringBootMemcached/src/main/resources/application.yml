@@ -1,0 +1,11 @@
+## Memcache 配置 ##
+memcache:
+  servers: 192.168.0.111:11211
+  failover: true
+  initConn: 100
+  minConn: 20
+  maxConn: 1000
+  maintSleep: 50
+  nagel: false
+  socketTO: 3000
+  aliveCheck: true
