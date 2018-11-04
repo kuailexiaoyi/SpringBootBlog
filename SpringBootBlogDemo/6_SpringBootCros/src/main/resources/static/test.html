@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link href="bootstrap/css/bootstrap.css" rel="stylesheet" style="text:css"/>
+    <script type="application/javascript" src="js/jquery.js"></script>
+    <script type="application/javascript"  src="bootstrap/js/bootstrap.js"></script>
+    <script type="application/javascript"  type="text/javascript">
+        function crosRequest(){
+            $.ajax({
+                url:'http://localhost:8080/users',
+                type:'get',
+                dataType:'json',
+                success:function(data){
+                    console.log(data);
+                }
+            });
+        }
+    </script>
+</head>
+<body>
+<button type="button" class="btn btn-link" onclick="crosRequest()">请求跨域资源</button>
+</body>
+</html>
