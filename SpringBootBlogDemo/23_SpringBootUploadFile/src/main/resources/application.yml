@@ -1,0 +1,5 @@
+spring:
+  http:
+    multipart:
+      max-file-size: 1024kb
+      max-request-size: 1024kb

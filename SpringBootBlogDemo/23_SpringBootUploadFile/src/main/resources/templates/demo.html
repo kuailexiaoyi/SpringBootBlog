@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8"/>
+	<title>上传按钮 的样式优化插件</title>
+	<link rel="stylesheet" href="css/fileUpload.css"/>
+    <script type="text/javascript" src='js/jquery.js'></script>
+    <script type="text/javascript" src='js/jquery.fileupload.js'></script>
+</head>
+<body>
+	<div class="wrap">
+        <input id="uploadFile" title='支持jpg、jpeg、gif、png格式，文件小于5M' tabIndex='3'
+			   type='file' size='3' name='file' hidefocus="true" class="fnOpt"/>
+    </div>
+    <button id="uploadFileBtn" onclick="uploadFile()" type="submit">上传文件</button>
+
+<script type="text/javascript">
+	$(".fnOpt").optFileUpload();
+    
+    function  uploadFile() {
+        var formData = new FormData();
+        formData.append("file", $("#uploadFile")[0].files[0]);
+        $.ajax({
+            url:'/fileUpload',
+            type:'POST',
+            data: formData,
+            async: false,
+            cache: false,
+            contentType: false, //不设置内容类型
+            processData: false, //不处理数据
+            success:function(data){
+                console.log(data);
+                alert(data);
+            },
+            error:function(){
+                alert("上传失败！");
+            }
+        })
+    }
+</script>
+</body>
+</html>
